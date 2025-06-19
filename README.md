@@ -25,8 +25,7 @@ resources.
 
 ## Libraries
 
-- [Ibis](https://duckdb.org/docs/stable/guides/python/ibis.html) - Portable
-  Python dataframe library
+- [Ibis](https://ibis-project.org/) - Portable Python dataframe library
 - [Pointblank](https://posit-dev.github.io/pointblank/) - Powerful, yet elegant
   data validation framework for Python
 
