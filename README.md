@@ -12,6 +12,7 @@ resources.
 - [Transformation](#transformation)
 - [Resources](#resources)
   - [Documentation](#documentation)
+  - [Examples](#examples)
   - [Videos](#videos)
 
 ## Interfaces
@@ -49,6 +50,11 @@ resources.
   Mark Raasveldt and Hannes Mühleisen
 - [Specification](https://ducklake.select/docs/stable/specification/introduction.html) -
   The specification for the DuckLake format
+
+### Examples
+
+- [Using DuckLake with PySpark](https://gist.github.com/hannes/395ac65766cdbddb0972ab337224fcb4) -
+  Example Python snippet
 
 ### Videos
 
