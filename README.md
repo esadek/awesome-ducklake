@@ -10,6 +10,7 @@ resources.
 - [Interfaces](#interfaces)
 - [Libraries](#libraries)
 - [Transformation](#transformation)
+- [Implementations](#implementations)
 - [Resources](#resources)
   - [Documentation](#documentation)
   - [Videos](#videos)
@@ -38,6 +39,12 @@ resources.
 - [lea](https://github.com/carbonfact/lea) - Minimalist SQL orchestrator
 - [SQLMesh](https://www.tobikodata.com/sqlmesh) - Scalable and efficient data
   transformation framework
+
+## Implementations
+
+- [DuckDB](https://duckdb.org/docs/stable/core_extensions/ducklake)
+- [MotherDuck](https://motherduck.com/blog/announcing-ducklake-support-motherduck-preview/)
+- [Sling](https://blog.slingdata.io/extract-data-from-databases-into-ducklake)
 
 ## Resources
 
