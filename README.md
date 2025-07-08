@@ -13,6 +13,7 @@ resources.
 - [Implementations](#implementations)
 - [Resources](#resources)
   - [Documentation](#documentation)
+  - [Examples](#examples)
   - [Videos](#videos)
 
 ## Interfaces
@@ -56,6 +57,13 @@ resources.
   Mark Raasveldt and Hannes Mühleisen
 - [Specification](https://ducklake.select/docs/stable/specification/introduction.html) -
   The specification for the DuckLake format
+
+### Examples
+
+- [DuckDB Python API](https://github.com/esadek/ducklake-examples/blob/main/examples/duckdb.ipynb)
+- [Ibis](https://github.com/esadek/ducklake-examples/blob/main/examples/ibis.ipynb)
+- [Pointblank](https://github.com/esadek/ducklake-examples/blob/main/examples/pointblank.ipynb)
+- [PySpark](https://github.com/esadek/ducklake-examples/blob/main/examples/pyspark.ipynb)
 
 ### Videos
 
