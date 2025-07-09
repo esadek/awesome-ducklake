@@ -24,7 +24,8 @@ resources.
   A user interface for your local DuckDB instance
 - [Harlequin](https://harlequin.sh/) - The SQL IDE for your terminal
 - [marimo](https://marimo.io/) - Reactive Python notebook
-- [Sling](https://docs.slingdata.io/) - Efficient data transfer between various sources and destinations.
+- [Sling](https://docs.slingdata.io/) - Efficient data transfer between various
+  sources and destinations.
 
 ## Libraries
 
@@ -60,10 +61,15 @@ resources.
 
 ### Examples
 
-- [DuckDB Python API](https://github.com/esadek/ducklake-examples/blob/main/examples/duckdb.ipynb)
-- [Ibis](https://github.com/esadek/ducklake-examples/blob/main/examples/ibis.ipynb)
-- [Pointblank](https://github.com/esadek/ducklake-examples/blob/main/examples/pointblank.ipynb)
-- [PySpark](https://github.com/esadek/ducklake-examples/blob/main/examples/pyspark.ipynb)
+- [DuckDB Python API](https://github.com/esadek/ducklake-examples/blob/main/examples/duckdb.ipynb) -
+  Python notebook demonstrating usage of the DuckDB Python API
+- [Ibis](https://github.com/esadek/ducklake-examples/blob/main/examples/ibis.ipynb) -
+  Python notebook demonstrating usage of the Ibis dataframe library
+- [Pointblank](https://github.com/esadek/ducklake-examples/blob/main/examples/pointblank.ipynb) -
+  Python notebook demonstrating usage of the Pointblank data validation
+  framework
+- [PySpark](https://github.com/esadek/ducklake-examples/blob/main/examples/pyspark.ipynb) -
+  Python notebook demonstrating usage of PySpark
 
 ### Videos
 
