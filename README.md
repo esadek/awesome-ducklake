@@ -30,6 +30,8 @@ resources.
 ## Libraries
 
 - [Ibis](https://ibis-project.org/) - Portable Python dataframe library
+- [Narwhals](https://narwhals-dev.github.io/narwhals/) - Lightweight and
+  extensible compatibility layer between dataframe libraries
 - [Pointblank](https://posit-dev.github.io/pointblank/) - Powerful, yet elegant
   data validation framework for Python
 
