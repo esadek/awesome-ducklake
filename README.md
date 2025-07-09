@@ -44,8 +44,10 @@ resources.
 
 ## Implementations
 
-- [DuckDB](https://duckdb.org/docs/stable/core_extensions/ducklake)
-- [MotherDuck](https://motherduck.com/blog/announcing-ducklake-support-motherduck-preview/)
+- [DuckDB](https://duckdb.org/docs/stable/core_extensions/ducklake) - DuckDB
+  core extension for attaching to databases stored in the DuckLake format
+- [MotherDuck](https://motherduck.com/blog/announcing-ducklake-support-motherduck-preview/) -
+  Cloud data warehouse with support for managed DuckLake
 - [Sling](https://blog.slingdata.io/extract-data-from-databases-into-ducklake)
 
 ## Resources
