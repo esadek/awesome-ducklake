@@ -34,6 +34,8 @@ resources.
   extensible compatibility layer between dataframe libraries
 - [Pointblank](https://posit-dev.github.io/pointblank/) - Powerful, yet elegant
   data validation framework for Python
+- [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) - Python
+  API for Apache Spark
 
 ## Transformation
 
