@@ -18,6 +18,7 @@ resources.
 
 ## Interfaces
 
+- [DBeaver](https://dbeaver.io/) - Universal database tool and SQL client
 - [DuckDB CLI](https://duckdb.org/docs/stable/clients/cli/overview.html) -
   DuckDB command-line interface
 - [DuckDB UI Extension](https://duckdb.org/docs/stable/core_extensions/ui.html) -
