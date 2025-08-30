@@ -81,5 +81,7 @@ resources.
 
 - [DuckLake & The Future of Open Table Formats](https://www.youtube.com/watch?v=yn07s-_PgrI) -
   An in-depth discussion about DuckLake with Jordan Tigani and Hannes Mühleisen
+- [DuckLake - The SQL-Powered Lakehouse Format for the Rest of Us](https://www.youtube.com/watch?v=YQEUkFWa69o) -
+  A talk on the design rationale and principles of DuckLake by Hannes Mühleisen
 - [Introducing DuckLake](https://www.youtube.com/watch?v=zeonmOO9jm4) - A
   podcast on the DuckLake project by Hannes Mühleisen and Mark Raasveldt
