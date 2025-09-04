@@ -85,3 +85,8 @@ resources.
   A talk on the design rationale and principles of DuckLake by Hannes Mühleisen
 - [Introducing DuckLake](https://www.youtube.com/watch?v=zeonmOO9jm4) - A
   podcast on the DuckLake project by Hannes Mühleisen and Mark Raasveldt
+
+### Presentations
+
+- [DuckLake: The SQL-Powered Lakehouse Format](https://blobs.duckdb.org/slides/hannes-muehleisen-ducklake-open-lakehouse-meetup.pdf) -
+  Presentation by Hannes Mühleisen.
