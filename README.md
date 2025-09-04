@@ -26,7 +26,7 @@ resources.
 - [Harlequin](https://harlequin.sh/) - The SQL IDE for your terminal
 - [marimo](https://marimo.io/) - Reactive Python notebook
 - [Sling](https://docs.slingdata.io/) - Efficient data transfer between various
-  sources and destinations.
+  sources and destinations
 
 ## Libraries
 
@@ -89,4 +89,4 @@ resources.
 ### Presentations
 
 - [DuckLake: The SQL-Powered Lakehouse Format](https://blobs.duckdb.org/slides/hannes-muehleisen-ducklake-open-lakehouse-meetup.pdf) -
-  Presentation by Hannes Mühleisen.
+  Presentation by Hannes Mühleisen
