@@ -32,6 +32,8 @@ resources.
 
 ## Libraries
 
+- [dlt](https://dlthub.com/) - Python library that loads data from various data
+  sources into well-structured, live datasets
 - [Ibis](https://ibis-project.org/) - Portable Python dataframe library
 - [Narwhals](https://narwhals-dev.github.io/narwhals/) - Lightweight and
   extensible compatibility layer between dataframe libraries
