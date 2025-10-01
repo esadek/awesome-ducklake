@@ -26,6 +26,7 @@ resources.
   A user interface for your local DuckDB instance
 - [Harlequin](https://harlequin.sh/) - The SQL IDE for your terminal
 - [marimo](https://marimo.io/) - Reactive Python notebook
+- [Positron](https://positron.posit.co/) - A next-generation data science IDE
 - [Sling](https://docs.slingdata.io/) - Efficient data transfer between various
   sources and destinations
 
