@@ -87,6 +87,8 @@ resources.
   An in-depth discussion about DuckLake with Jordan Tigani and Hannes Mühleisen
 - [DuckLake - The SQL-Powered Lakehouse Format for the Rest of Us](https://www.youtube.com/watch?v=YQEUkFWa69o) -
   A talk on the design rationale and principles of DuckLake by Hannes Mühleisen
+- [DuckLake: Learning from Cloud Data Warehouses to Build a Robust “Lakehouse”](https://www.youtube.com/watch?v=z2GhznqtIz0) -
+  A seminar by Jordan Tigani
 - [Introducing DuckLake](https://www.youtube.com/watch?v=zeonmOO9jm4) - A
   podcast on the DuckLake project by Hannes Mühleisen and Mark Raasveldt
 
