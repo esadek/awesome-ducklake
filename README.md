@@ -96,3 +96,8 @@ resources.
 
 - [DuckLake: The SQL-Powered Lakehouse Format](https://blobs.duckdb.org/slides/hannes-muehleisen-ducklake-open-lakehouse-meetup.pdf) -
   Presentation by Hannes Mühleisen
+
+### DuckLake Setups
+
+- [DuckLake on Hetzner](https://github.com/berndsen-io/ducklake-hetzner)
+- [DuckLake on Leafcloud](https://szarnyasg.org/posts/ducklake-on-leafcloud/)
