@@ -80,6 +80,7 @@ resources.
   framework
 - [PySpark](https://github.com/esadek/ducklake-examples/blob/main/examples/pyspark.ipynb) -
   Python notebook demonstrating usage of PySpark
+- [DuckLake + SQLMesh Tutorial: Build a Modern Data Lakehouse On Your Laptop](https://www.tobikodata.com/blog/ducklake-sqlmesh-tutorial-a-hands-on) - tutorial for settin up a local DuckLake with SQLMesh.
 
 ### Videos
 
