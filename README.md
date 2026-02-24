@@ -82,6 +82,7 @@ resources.
   framework
 - [PySpark](https://github.com/esadek/ducklake-examples/blob/main/examples/pyspark.ipynb) -
   Python notebook demonstrating usage of PySpark
+- [DuckLake + SQLMesh Tutorial: Build a Modern Data Lakehouse On Your Laptop](https://www.tobikodata.com/blog/ducklake-sqlmesh-tutorial-a-hands-on) - tutorial for settin up a local DuckLake with SQLMesh.
 
 ### Videos
 
@@ -98,3 +99,8 @@ resources.
 
 - [DuckLake: The SQL-Powered Lakehouse Format](https://blobs.duckdb.org/slides/hannes-muehleisen-ducklake-open-lakehouse-meetup.pdf) -
   Presentation by Hannes Mühleisen
+
+### DuckLake Setups
+
+- [DuckLake on Hetzner](https://github.com/berndsen-io/ducklake-hetzner)
+- [DuckLake on Leafcloud](https://szarnyasg.org/posts/ducklake-on-leafcloud/)
