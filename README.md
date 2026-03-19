@@ -11,6 +11,7 @@ resources.
 - [Libraries](#libraries)
 - [Transformation](#transformation)
 - [Implementations](#implementations)
+- [Deployment](#deployment)
 - [Resources](#resources)
   - [Documentation](#documentation)
   - [Examples](#examples)
@@ -59,6 +60,11 @@ resources.
   Cloud data warehouse with support for managed DuckLake
 - [DataFusion-DuckLake](https://crates.io/crates/datafusion-ducklake) - DuckLake
   query engine for Rust, built with DataFusion.
+
+## Deployment
+
+- [ducklake-deploy](https://github.com/berndsen-io/ducklake-deploy) - Deploy
+  DuckLake on Hetzner, Scaleway, or AWS with OpenTofu
 
 ## Resources
 
