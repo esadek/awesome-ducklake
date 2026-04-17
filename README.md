@@ -55,7 +55,7 @@ resources.
 
 - [DuckDB](https://duckdb.org/docs/stable/core_extensions/ducklake) - DuckDB
   core extension for attaching to databases stored in the DuckLake format
-- [MotherDuck](https://motherduck.com/blog/announcing-ducklake-support-motherduck-preview/) -
+- [MotherDuck](https://motherduck.com/blog/announcing-ducklake-1-0-on-motherduck/) -
   Cloud data warehouse with support for managed DuckLake
 - [DataFusion-DuckLake](https://crates.io/crates/datafusion-ducklake) - DuckLake
   query engine for Rust, built with DataFusion.
