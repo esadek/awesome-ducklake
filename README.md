@@ -29,6 +29,7 @@ resources.
 - [Positron](https://positron.posit.co/) - A next-generation data science IDE
 - [Sling](https://docs.slingdata.io/) - Efficient data transfer between various
   sources and destinations
+- [Shaper](https://taleshape.com/blog/simple-self-hosted-data-lake-platform-with-duckdb-ducklake-and-shaper/) - Data Visualisation and Dashboards powered by DuckDB and SQL
 
 ## Libraries
 
@@ -61,6 +62,8 @@ resources.
   query engine for Rust, built with DataFusion.
 - [SwanLake](https://github.com/swanlake-io/swanlake) - Arrow Flight SQL server
   backed by DuckDB, with DuckLake support
+- [pg_ducklake](https://github.com/relytcloud/pg_ducklake) - Postgres extension for
+  managing DuckLake database
 
 ## Resources
 
