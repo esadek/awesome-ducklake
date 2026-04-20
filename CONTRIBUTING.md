@@ -8,4 +8,3 @@
 - Keep descriptions short and simple, but descriptive.
 - Check your spelling and grammar.
 - Remove any trailing whitespace.
-- Maintain a maximum line width of 80.
