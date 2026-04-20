@@ -29,6 +29,7 @@ resources.
 - [Positron](https://positron.posit.co/) - A next-generation data science IDE
 - [Sling](https://docs.slingdata.io/) - Efficient data transfer between various
   sources and destinations
+- [Shaper](https://taleshape.com/blog/simple-self-hosted-data-lake-platform-with-duckdb-ducklake-and-shaper/) - Data Visualisation and Dashboards powered by DuckDB and SQL
 
 ## Libraries
 
