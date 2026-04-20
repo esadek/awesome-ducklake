@@ -22,7 +22,7 @@ reviewed and investigated and will result in a response that is deemed necessary
 and appropriate to the circumstances. The project team is obligated to maintain
 confidentiality with regard to the reporter of an incident.
 
-#### Attribution
+## Attribution
 
 This Code of Conduct is adapted from the
 [DuckDB Code of Conduct](https://duckdb.org/code_of_conduct.html), which is
