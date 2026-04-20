@@ -1,0 +1,9 @@
+name: Lint Markdown
+on: [push, pull_request]
+
+jobs:
+  rumdl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: rvben/rumdl@v0
