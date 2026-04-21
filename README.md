@@ -34,6 +34,7 @@ A curated list of awesome [DuckLake](https://ducklake.select/) tools and resourc
 - [Narwhals](https://narwhals-dev.github.io/narwhals/) - Lightweight and extensible compatibility layer between dataframe libraries
 - [Pointblank](https://posit-dev.github.io/pointblank/) - Powerful, yet elegant data validation framework for Python
 - [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) - Python API for Apache Spark
+- [pyducklake](https://pypi.org/project/pyducklake/) - Analog to [pyiceberg](https://py.iceberg.apache.org/), providing API-driven access to all of DuckLake's features
 
 ## Transformation
 
