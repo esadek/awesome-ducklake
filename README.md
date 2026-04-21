@@ -48,6 +48,7 @@ A curated list of awesome [DuckLake](https://ducklake.select/) tools and resourc
 - [DataFusion-DuckLake](https://crates.io/crates/datafusion-ducklake) - DuckLake query engine for Rust, built with DataFusion.
 - [SwanLake](https://github.com/swanlake-io/swanlake) - Arrow Flight SQL server backed by DuckDB, with DuckLake support
 - [pg_ducklake](https://github.com/relytcloud/pg_ducklake) - Postgres extension for managing DuckLake database
+- [duckgres](https://github.com/PostHog/duckgres) - Postgres-speaking server backed by DuckDB that underpins [Posthog's managed warehouse](https://posthog.com/data-stack/managed-warehouse)
 
 ## Resources
 
