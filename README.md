@@ -48,6 +48,7 @@ A curated list of awesome [DuckLake](https://ducklake.select/) tools and resourc
 - [DataFusion-DuckLake](https://crates.io/crates/datafusion-ducklake) - DuckLake query engine for Rust, built with DataFusion.
 - [SwanLake](https://github.com/swanlake-io/swanlake) - Arrow Flight SQL server backed by DuckDB, with DuckLake support
 - [pg_ducklake](https://github.com/relytcloud/pg_ducklake) - Postgres extension for managing DuckLake database
+- [Moraine](https://github.com/morainedb/moraine) - DuckDB extension that stores the DuckLake catalog in object storage on SlateDB; also adds column indexes.
 
 ## Resources
 
